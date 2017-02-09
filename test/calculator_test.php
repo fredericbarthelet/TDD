@@ -33,7 +33,7 @@ class CalculatorTest extends TestCase
 	{
 		return [
 			['', 0],
-			['12', 22],
+			['12', 12],
 			['10,12', 22],
 			['3,1,5,7,4', 20],
 			['2,3,2,3,2', 12],
